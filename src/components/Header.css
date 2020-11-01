@@ -1,0 +1,51 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.HeaderMainDiv {
+    background-color:rgba(29, 28, 28, 0.856) !important;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.HeaderNavbarBrand {
+    color: white !important;
+    align-items: center;
+}
+
+.HeaderLogo {
+    height: 80px;
+    width: 63px;
+    background-image: url(../assets/logo.png);
+    background-size: contain;
+}
+.HeaderNavlinks {
+    color: white !important;
+} 
+#basic-nav-dropdown {
+    color: white !important;
+} 
+
+.navbar{
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    /* background-color: rgba(29, 28, 28, 0.856); */
+}
+.nav{
+    justify-content: space-between;
+}
+
+.imgcarousel{
+    height: 650px;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
